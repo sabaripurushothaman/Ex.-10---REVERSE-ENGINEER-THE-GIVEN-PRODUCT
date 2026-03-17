@@ -33,8 +33,7 @@
 ## Input:
 ![Image](https://github.com/user-attachments/assets/2e28feba-8f26-4939-8d7e-b7d0de0f2f08)
 ### Output:
-<img width="1919" height="1013" alt="Image" src="https://github.com/user-attachments/assets/0a463016-d568-44ad-9ed6-f5bd4bb2ef3b" />
-
+<img width="1917" height="989" alt="Image" src="https://github.com/user-attachments/assets/a9b26a77-1523-4ea8-b865-579406e86ac0" />
 
 ### Name:P.S.SABARI
 ### Register Number:212225040352
